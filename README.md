@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - ***I'm currently a 2nd year Computer Science Undergraduate***
+- ***I'm currently working on Penetration Testing and Cybersecurity tools***
 - ***I'm looking forward to collaborating with other developers on projects***
 
 <p align="center">
   <img src="logo_Personal.png">
+  <br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=vineethbv&count_private=true&theme=algolia&show_icons=true&line_height=20" align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vineethbv&count_private=true&theme=algolia&count=6&lang_count=10&layout=compact" align = "center">
 </p>
