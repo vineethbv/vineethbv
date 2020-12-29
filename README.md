@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - ***I'm currently a 2nd year Computer Science Undergraduate***
-- ***I'm currently working on Penetration Testing and Cybersecurity tools***
+- ***I'm currently learning Penetration Testing***
+- ***I’m currently working on Cybersecurity tools***
 - ***I'm looking forward to collaborating with other developers on projects***
 
 <p align="center">
