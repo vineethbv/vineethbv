@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="logo_Personal.png">
   <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=vineethbv&count_private=true&theme=algolia&show_icons=true&line_height=20" align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vineethbv&count_private=true&theme=algolia&count=6&lang_count=8&layout=compact" align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vineethbv&count_private=true&theme=algolia&show_icons=true&line_height=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vineethbv&count_private=true&theme=algolia&count=6&lang_count=8&layout=compact">
 </p>
