@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - ***💻 I'm currently a 3rd year Computer Science Undergraduate***
-- ***🌱 I'm currently learning Penetration Testing***
-- ***🔭 I’m currently working on Cybersecurity tools***
+- ***🌱 I'm currently learning Networks and Communication***
+- ***🔭 I’m currently working on Full Stack projects***
 - ***👯 I'm looking forward to collaborating with other developers on projects***
 
 <p align="center">
