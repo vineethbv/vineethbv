@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ***💻 I'm currently a 3rd year Computer Science Undergraduate***
+- ***💻 I'm currently a final year Computer Science Undergraduate***
 - ***🌱 I'm currently learning Networks and Communication***
 - ***🔭 I’m currently working on Full Stack projects***
 - ***👯 I'm looking forward to collaborating with other developers on projects***
